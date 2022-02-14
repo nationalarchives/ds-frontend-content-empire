@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<slideshow>
+  <settings>
+    <image_folder>images/</image_folder>
+    <time>2</time>
+    <fade>2</fade>
+    <repeat>true</repeat>
+    <captions>true</captions>
+  </settings>
+  <images>
+    <image>
+      <file>pic7a.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: ILN 13 Dec 1952)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic7b.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: INF 13/213pt1)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic7c.jpg</file>
+      <caption>
+        <![CDATA[(Christian cross)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic7d.jpg</file>
+      <caption>
+        <![CDATA[(Parliamentary Service Collection, New Zealand)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic7e.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: INF 13/213pt1)]]>
+      </caption>
+    </image>
+  </images>
+</slideshow>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<slideshow>
+  <settings>
+    <image_folder>images/</image_folder>
+    <time>2</time>
+    <fade>2</fade>
+    <repeat>true</repeat>
+    <captions>true</captions>
+  </settings>
+  <images>
+    <image>
+      <file>pic6a.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: PRO 30/89/16c)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic6b.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: INF 3/384)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic6c.jpg</file>
+      <caption>
+        <![CDATA[(Canadian flag)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic6d.jpg</file>
+      <caption>
+        <![CDATA[(British Pathe, 1193.16. film still)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic6e.jpg</file>
+      <caption>
+        <![CDATA[(British flag)]]>
+      </caption>
+    </image>
+  </images>
+</slideshow>

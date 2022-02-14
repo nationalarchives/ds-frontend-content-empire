@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<slideshow>
+  <settings>
+    <image_folder>images/</image_folder>
+    <time>2</time>
+    <fade>2</fade>
+    <repeat>true</repeat>
+    <captions>true</captions>
+  </settings>
+  <images>
+    <image>
+      <file>pic1a.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: CO 956/551)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic1b.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: CO 956/551)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic1c.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: CO 956/537)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic1d.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: CO 956/537)]]>
+      </caption>
+    </image>
+    <image>
+      <file>pic1e.jpg</file>
+      <caption>
+        <![CDATA[(Catalogue ref: CO 956/537)]]>
+      </caption>
+    </image>
+  </images>
+</slideshow>

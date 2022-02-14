@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<pieData>
+  <pie color="CC9900">
+    <value>11</value>
+    <text>Correct answers</text>
+  </pie>
+  <pie color="ff9900">
+    <value>1</value>
+    <text>Wrong answer</text>
+  </pie>
+</pieData>

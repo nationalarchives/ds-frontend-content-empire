@@ -1,0 +1,786 @@
+BODY
+{
+    BACKGROUND-COLOR: #ffffff
+}
+
+A.thumbdown:link
+{
+    FONT-SIZE: small;
+    COLOR: #000099;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+A.breadcrumb:visited
+{
+    COLOR: #990033
+}
+A:link
+{
+    COLOR: #000099;
+    TEXT-DECORATION: underline
+}
+A:visited
+{
+    COLOR: #000099;
+}
+A:hover
+{
+    TEXT-DECORATION: none
+}
+.bodygreen
+{
+    FONT-SIZE: small;
+    COLOR: #336600;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodyblack
+{
+    FONT-SIZE: small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodywhite
+{
+    FONT-SIZE: 0.7em;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.g1noscript
+{
+    FONT-SIZE: small;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif
+}
+.g2noscript
+{
+    FONT-SIZE: small;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif
+}
+.g3noscript
+{
+    FONT-SIZE: small;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif
+}
+.courier
+{
+    FONT-SIZE: 0.8em;
+    COLOR: #000000;
+    FONT-FAMILY: "Courier New", Courier, mono
+}
+.bodybold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.catref
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    COLOR: #999999;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.breadcrumb
+{
+    FONT-SIZE: x-small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.error
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1em;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.thumbup
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    COLOR: #663366;
+    FONT-FAMILY: Verdana, 
+  Arial, Helvetica, sans-serif;
+}
+.thumbdown
+{
+    FONT-SIZE: small;
+    COLOR: #663366;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.sourcebulletg1
+{
+    FONT-SIZE: small;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    COLOR: #ff9999;
+}
+.sourcebulletg2
+{
+    FONT-SIZE: small;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    COLOR: #ff9900;
+}
+.sourcebulletg3
+{
+    FONT-SIZE: small;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    COLOR: #ff9933;
+}
+.searchform
+{
+    MARGIN: 0px
+}
+.gradient {
+	background-image: url(../g1/images/gradient_g1.gif);
+	background-repeat: repeat-xx;
+	background-position: left top;
+	background-color: #ffffff;
+	
+}
+.footer
+{
+    FONT-SIZE: x-small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.footer a:link
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.footer a:visited
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.footer a:hover
+{
+    COLOR: #000000;
+    TEXT-DECORATION: underline
+}
+.sourcelink
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.sourcelink a:link
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.sourcelink a:visited
+{
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.sourcelink  a:hover
+{
+    COLOR: #000000;
+    TEXT-DECORATION: underline
+}
+.popuplink
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    COLOR: #999999;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.popuplink a:link
+{
+    COLOR: #CC0033;
+    TEXT-DECORATION: none
+}
+.popuplink  a:hover
+{
+    COLOR: #CC0033;
+    TEXT-DECORATION: underline
+}
+.popuplink  a:visited
+{
+    COLOR: #CC0033;
+    TEXT-DECORATION: none
+}
+.popupfooter
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    COLOR: #999999;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.csbodytext
+{
+    FONT-SIZE: small;
+    COLOR: #333333;
+    text-align:justify;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.csintrotext
+{
+    FONT-SIZE: small;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif
+}
+.g1cstextsources{
+    background-image: url(../../images/hex_BABCD4.gif);
+    background-position: left top;
+    background-color: #ffffff;
+    FONT-SIZE: small;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.csthumbnailtext {
+    FONT-SIZE: small;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.csthumbnailtext a:link{
+    COLOR: #000099;
+    TEXT-DECORATION: underline
+}
+.csthumbnailtext a:visited
+{
+    COLOR: #000099;
+}
+.csthumbnailtext a:hover
+{
+    TEXT-DECORATION: none
+}
+
+.numberedtext
+{
+    FONT-SIZE: small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.g1csbgtxtsources{
+    background-image: url(../../images/hex_BABCD4.gif);
+    background-position: left top;
+    background-color: #ffffff;
+	LIST-STYLE-POSITION: outside;
+    FONT-SIZE: small;
+    LIST-STYLE-IMAGE: url(../g1/images/g1_starbullet.gif);
+    FONT-SIZE: small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	list-style-type: circle;
+    vertical-align: middle;
+    line-height: 150%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.g2csbgtxtsources{
+    background-image: url(../images/hex_EFCA80.gif);
+    background-position: left top;
+    background-color: #ffffff;
+	LIST-STYLE-POSITION: outside;
+    FONT-SIZE: small;
+    LIST-STYLE-IMAGE: url(../g2/images/g2_starbullet.gif);
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    list-style-type: circle;
+    vertical-align: middle;
+    line-height: 150%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    COLOR: #000000;
+}
+.g3csbgtxtsources{
+    background-image: url(../images/hex_FFB48A.gif);
+    background-position: left top;
+    background-color: #ffffff;
+	LIST-STYLE-POSITION: outside;
+    FONT-SIZE: small;
+    LIST-STYLE-IMAGE: url(../g3/images/g3_starbullet.gif);
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    list-style-type: circle;
+    vertical-align: middle;
+    line-height: 150%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    COLOR: #000000;
+}
+.g1_homepage{
+    background-image: url(../images/g1_clouds.jpg);
+    background-position: left top;
+    background-color: #ffffff;
+    FONT-SIZE: small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    COLOR: #000000;
+}
+.g2_homepage{
+    background-image: url(../images/g2_clouds.jpg);
+    background-position: left top;
+    background-color: #ffffff;
+    FONT-SIZE: small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    COLOR: #000000;
+}
+.g3_homepage{
+    background-image: url(../images/g3_clouds.jpg);
+    background-position: left top;
+    background-color: #ffffff;
+    FONT-SIZE: small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    COLOR: #000000;
+}
+.g1tabledark
+{
+    BORDER-RIGHT: black 0px;
+    BORDER-TOP: black 0px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    BORDER-LEFT: black 0px;
+    COLOR: #f8f8f8;
+    BORDER-BOTTOM: #000000 0px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #9193B0
+}
+.g1tablelite
+{
+    BORDER-RIGHT: black 0px;
+    BORDER-TOP: black 0px;
+    FONT-SIZE: small;
+    MARGIN-LEFT: 5px;
+    BORDER-LEFT: black 0px;
+    COLOR: #000000;
+    BORDER-BOTTOM: #ffffff 0px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #ffffff
+}
+.g1tablemid
+{
+    BORDER-RIGHT: black 0px;
+    BORDER-TOP: black 0px;
+    FONT-SIZE: small;
+    BORDER-LEFT: black 0px;
+    COLOR: #f8f8f8;
+    BORDER-BOTTOM: #000000 0px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #BABCD4
+}
+.g2tabledark
+{
+    BORDER-RIGHT: black 0px;
+    BORDER-TOP: black 0px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    BORDER-LEFT: black 0px;
+    COLOR: #f8f8f8;
+    BORDER-BOTTOM: #000000 0px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #C09041
+}
+.g2tablelite
+{
+    BORDER-RIGHT: black 0px;
+    BORDER-TOP: black 0px;
+    FONT-SIZE: small;
+    MARGIN-LEFT: 5px;
+    BORDER-LEFT: black 0px;
+    COLOR: #000000;
+    BORDER-BOTTOM: #ffffff 0px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #ffffff
+}
+.g2tablemid
+{
+    BORDER-RIGHT: black 0px;
+    BORDER-TOP: black 0px;
+    FONT-SIZE: small;
+    BORDER-LEFT: black 0px;
+    COLOR: #f8f8f8;
+    BORDER-BOTTOM: #000000 0px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #EFCA80
+}
+.g3tabledark
+{
+    BORDER-RIGHT: black 0px;
+    BORDER-TOP: black 0px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: small;
+    BORDER-LEFT: black 0px;
+    COLOR: #f8f8f8;
+    BORDER-BOTTOM: #000000 0px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #C68059
+}
+
+.g3tablemid
+{
+    BORDER-RIGHT: black 0px;
+    BORDER-TOP: black 0px;
+    FONT-SIZE: small;
+    BORDER-LEFT: black 0px;
+    COLOR: #f8f8f8;
+    BORDER-BOTTOM: #000000 0px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #FFB48A
+}
+.exhibitiontabledark
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.7em;
+    COLOR: #f8f8f8;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #AA002c;
+}
+.exhibitiontablelite
+{
+    PADDING-TOP: 2px;
+    PADDING-BOTTOM: 2px;
+    FONT-SIZE: 0.7em;
+    COLOR: #000066;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: #dcdeff
+}
+.alphabet
+{
+    FONT-SIZE: 0.7em;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodyred
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 1em;
+    COLOR: #800000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodybluebold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.7em;
+    COLOR: #000066;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.site_column1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.7em;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.site_column2
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 0.7em;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.site_column3
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 0.7em;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.site_column4a
+{
+    FONT-SIZE: x-small;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.site_column4b
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 0.7em;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.site_column4c
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 0.7em;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.g1worksheet{
+    background-image: url(../../images/hex_dedcd4.gif);
+    background-color: #ffffff;
+}
+.g2worksheet{
+    background-image: url(../../images/hex_ffffff.gif);
+    background-position: left top;
+    background-color: #ffffff;
+	background-repeat : repeat-x;
+}
+.g3worksheet{
+    background-image: url(../../images/hex_ffffff.gif);
+    background-color: #ffffff;
+}
+.g3worksheetborder{
+	border-color : #5d0f02;
+	border-style : none;
+	border-width : 1px;
+	border-bottom-width : 1px;
+	border-left-width : 1px;
+	border-right-width : 1px;
+	border-top-width : 1px;
+}
+.search
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.7em;
+    COLOR: #660033;
+    FONT-FAMILY: Verdana, 
+  Arial, Helvetica, sans-serif
+}
+.brownbold
+{
+	color : #614517;
+	font-weight : bolder;
+	FONT-SIZE: 0.7em;
+	FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif
+}
+.whitetext
+{
+    FONT-SIZE: 0.7em;
+    COLOR: #ffffff;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	background-color : #614517;
+	PADDING-BOTTOM: 2px;
+    PADDING-TOP: 1px
+}
+.whitetext2
+{
+    FONT-SIZE: 0.7em;
+    COLOR: #ffffff;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	font-weight : bold;
+	background-color : #614517;
+	}
+.blackheading
+{
+    FONT-SIZE: 0.7em;
+	font-weight : bold;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	}
+.beigeheading
+{
+    FONT-SIZE: 0.7em;
+	font-weight : bold;
+    COLOR: #72511B;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.beigetext
+{
+    FONT-SIZE: 0.5em;
+	font-weight : normal;
+    COLOR: #72511B;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+	}
+
+		
+.tinytext
+{
+    FONT-SIZE: 0.5em;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif
+}
+.brownonwhite
+{
+	color : #614517;
+	font-weight : bolder;
+	FONT-SIZE: 0.7em;
+	background-color : #ffffff;
+	FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif
+}
+.beigebackground
+{
+	background-color : #EFCA80
+}
+.beigebackgroundtxt
+{
+	color : #000000;
+	font-weight : normal;
+	FONT-SIZE: 0.6em;
+	FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif;
+	}
+.recordtext
+{
+	color : #614517;
+	font-weight : normal;
+	FONT-SIZE: 0.7em;
+	FONT-FAMILY: Verdana, Arial, Helvetica, 
+  sans-serif;
+}
+varbackground
+{
+	background-color : #ffffff;
+	}
+
+.whitebackground
+{
+	background-color : #FFFFFF
+}
+A.bullet:link
+{
+    FONT-SIZE: 0.6em;
+	COLOR: #000099;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+A.bullet:visited
+{
+    FONT-SIZE: 0.6em;
+	COLOR: #000099;
+}
+A.bullet:hover
+{
+    FONT-SIZE: 0.6em;
+	TEXT-DECORATION: none
+}
+.g2worksheetnew
+{
+    background-image: url(../../images/hex_F5F3B4.gif);
+    background-position: left top;
+    background-color: #ffffff
+}
+A.brownlink:link
+{
+	COLOR: #614517;
+	font-weight : bold;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+A.brownlink:visited
+{
+    COLOR: #614517;
+	font-weight : bold;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none
+}
+A.brownlink:hover
+{
+    COLOR: #614517;
+	font-weight : bold;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: underline
+}		
+.whitetextbig
+{
+	COLOR: #ffffff;
+	FONT-SIZE: 1.0em;
+	font-weight : bold;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.bodyblackoverview
+{
+	color: #333333;
+	font-size: 0.7em;
+	line-height: 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.bigblackbold
+{
+	color: #000000;
+	font-weight: bold;
+	font-size: 1.5em;
+	font-family: Times new Roman;
+	text-decoration: none;
+}
+.whitetextnavy
+{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 0.7em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #000099;
+	PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px;
+}
+.g2worksheetpink
+{
+    background-image: url(../../images/hex_FFCCCC.gif);
+	background-position: left top;
+   
+}
+A.white:link
+{
+    FONT-SIZE: 1.1em;
+	COLOR: #ffffff;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+A.white:visited
+{
+    FONT-SIZE: 1.1em;
+	COLOR: #ffffff;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none
+}
+A.white:hover
+{
+    FONT-SIZE: 1.1em;
+	COLOR: #ffffff;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: underline
+}
+A.blackwhite:link
+{
+    FONT-SIZE: 0.8em;
+	COLOR: #000000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none;
+	FONT-WEIGHT: bold
+}
+A.blackwhite:visited
+{
+    FONT-SIZE: 0.8em;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	FONT-WEIGHT: bold
+}
+A.blackwhite:hover
+{
+    FONT-SIZE: 0.8em;
+	COLOR: #ffffff;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	FONT-WEIGHT: bold
+}
+.whitetextnavy2
+{
+	color: #ffffff;
+	font-weight: normal;
+	font-size: 0.62em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	background-color: #000066;
+}
+.bodyflashintrored
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 0.95em;
+    COLOR: #800000;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.g1buttonrow
+{
+ background-image: url(../../images/hex_ffffff.gif);
+ background-color: #ffffff;
+}
